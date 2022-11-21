@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @donnykernell. My name is Dawid Kozłowski
-- 👀 I’m interested in BMX Freestyle, Networking, System Administration and Sequirity
+- 👀 I’m interested in BMX Freestyle, Networking, System Administration and Security
 - 🌱 I’m currently learning Python, Linux 
 - 📫 How to reach me: https://wwww.linkedin.com/in/dawid-w-kozlowski
 
